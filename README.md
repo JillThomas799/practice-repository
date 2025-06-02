@@ -7,7 +7,7 @@ Hello. Welcome to my new practice-repository file which I am using for my Versio
 ## ABOUT ME
 
 I am a retired health-care professional.
-*this is a *sentence with some \*\*formatting.
+
 
 ### INTERESTS
 

@@ -8,12 +8,11 @@ Hello. Welcome to my new practice-repository file which I am using for my Versio
 
 I am a retired health-care professional.
 
-
 ### INTERESTS
 
 1. Software development
 2. Hiking
-3. International affairs
+3. Learning foreign languages: skill in order of competence = French, Spanish, German, Mandarin Chinese.
 
 ### PLACES I WOULD LIKE TO SEE THIS YEAR:
 

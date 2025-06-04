@@ -12,7 +12,7 @@ I am a retired health-care professional.
 
 1. Software development
 2. Hiking
-3. Learning foreign languages: skill in order of competence = French, Spanish, German, Mandarin Chinese.
+3. Learning languages: Skill in order of competence = French, Spanish, German, Mandarin Chinese.
 
 ### PLACES I WOULD LIKE TO SEE THIS YEAR:
 
